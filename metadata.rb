@@ -1,3 +1,4 @@
+name		 "rabbitmq-management"
 maintainer       "J.D. Hollis"
 license          "Apache 2.0"
 description      "Enables the rabbitmq-management plugin and dependencies"
